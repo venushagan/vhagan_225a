@@ -1,4 +1,4 @@
-# vhagan_225a
+# Venus Hagan
 
 This is my repo for BMS 225A - Data science. My work is organized as follows: 
 - 'code' All scripts
